@@ -69,9 +69,9 @@ userTwo  ─────────────▶  same object
   
  console.log(userOne.email);  // mahi@gmail.com
 
- - change via userTwo
+ - Change via userTwo
  - Affects userOne
- -Because both point to same heap memory
+ - Because both point to same heap memory
 
 
  ****IMP***
